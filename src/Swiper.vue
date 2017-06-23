@@ -243,7 +243,7 @@
 		font-size:0;
 		overflow: hidden;
 	}
-	.swiper-items-wrap>div{
+	.swiper-items-wrap>.swiper-item{
 		position: absolute;
 		top:0;
 		left:0;
@@ -252,6 +252,10 @@
 		display:none;
 		background: #999;
 		border:0;
+	}
+	.swiper-items-wrap>.swiper-item img{
+		width:100%;
+		height:100%;
 	}
 	.swiper-items-wrap div:first-child{
 		display:block;

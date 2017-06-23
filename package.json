@@ -1,7 +1,6 @@
 {
   "name": "banner-swiper",
-  "version": "1.0.3",
-  "version": "1.1.4",
+  "version": "1.2.7",
   "description": "simple swiper for vue",
   "main": "dist/swiper.js",
   "scripts": {
@@ -9,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/yezi12138/swiper.git"
+    "url": "git@github.com:yezi12138/swiper.git"
   },
   "author": "yezi12138",
   "license": "ISC",
