@@ -1,0 +1,20 @@
+{
+  "name": "banner-swiper",
+  "version": "1.0.3",
+  "version": "1.1.4",
+  "description": "simple swiper for vue",
+  "main": "dist/swiper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/yezi12138/swiper.git"
+  },
+  "author": "yezi12138",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yezi12138/swiper/issues"
+  },
+  "homepage": "https://github.com/yezi12138/swiper#readme"
+}
